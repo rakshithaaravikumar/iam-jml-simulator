@@ -1,0 +1,7 @@
+date,event,user_id,name,dept,title
+2026-10-01,join,U101,Asha Rao,Finance,Accounts Analyst
+2026-10-01,join,U102,Ken Tanaka,IT,Systems Engineer
+2026-10-02,join,U103,Priya Nair,HR,HR Executive
+2026-10-03,move,U101,Asha Rao,IT,Support Analyst
+2026-10-04,leave,U102,Ken Tanaka,IT,Systems Engineer
+2026-10-04,leave,U103,Priya Nair,HR,HR Executive
